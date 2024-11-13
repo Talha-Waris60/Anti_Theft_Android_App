@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AntiTheft</string>
+    <string name="start_pocket_removal_detection">Start Pocket Removal Detection</string>
+    <string name="start_charger_removal_detection">Start Charger Removal Detection</string>
+    <string name="start_motion_detection">Start Motion Detection</string>
+</resources>
